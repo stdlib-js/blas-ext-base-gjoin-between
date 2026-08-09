@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a6a322a`](https://github.com/stdlib-js/stdlib/commit/a6a322a60407a3b43eaf765f3a4ce4c37fd022bf) - **docs:** update comments _(by Athan Reines)_
 -   [`34c1828`](https://github.com/stdlib-js/stdlib/commit/34c1828ee03a00a6d136c48e1b9399cd284aaed5) - **feat:** add `blas/ext/base/gjoin-between` [(#11140)](https://github.com/stdlib-js/stdlib/pull/11140) _(by Muhammad Haris, Athan Reines)_
 
 </details>
